@@ -30,3 +30,5 @@
 <a href="https://github.com/HaterYuumi" class="button_1670306581841" target="_blank">
   (￣▽￣)
 </a>
+
+![mermaid-diagram-2022-12-06-140855](https://user-images.githubusercontent.com/114468482/205844730-55aef6c9-19e3-4b22-8978-7a2693e6a2ee.png)
