@@ -1,5 +1,7 @@
 # HaterYuumi.github.io
 
+![image](https://webanetlabs.net/ng2013/ng13.gif)
+
 Ссылки :)
 
 <div class="cleanslate w24tz-current-time w24tz-middle" style="display: inline-block !important; visibility: hidden !important; min-width:300px !important; min-height:145px !important;"><p><a href="//24timezones.com/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA/%D0%B2%D1%80%D0%B5%D0%BC%D1%8F" style="text-decoration: none" class="clock24" id="tz24-1670912146-c1375-eyJob3VydHlwZSI6MTIsInNob3dkYXRlIjoiMSIsInNob3dzZWNvbmRzIjoiMCIsImNvbnRhaW5lcl9pZCI6ImNsb2NrX2Jsb2NrX2NiNjM5ODE4OTI1NWMxMiIsInR5cGUiOiJkYiIsImxhbmciOiJydSJ9" title="точное время Новосибирск" target="_blank" rel="nofollow">Текущее время в Томске</a></p><div id="clock_block_cb6398189255c12"></div></div>
