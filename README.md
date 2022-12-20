@@ -42,4 +42,9 @@
 
 
 Сайт на тильде 
-http://project6514439.tilda.ws/
+http://tochno100ege.tilda.ws/
+
+
+![mermaid-diagram-2022-12-20-132235](https://user-images.githubusercontent.com/114468482/208598695-12c1c60e-d427-4527-a9f0-a9ca3c821259.png)
+
+
